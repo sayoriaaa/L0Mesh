@@ -1,0 +1,8 @@
+.vscode
+examples/*
+!examples/cube.obj
+build
+*.bat
+!build.bat
+!clean.bat
+!run.bat
