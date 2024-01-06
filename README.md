@@ -1,3 +1,8 @@
+# Notes
+
+This project is no longer maintained, if interested, please check https://github.com/sayoriaaa/SMD for more efficient, easy to use and cuda-supported impl.
+
+
 # L0 复现
 
 这是论文Mesh Denoising via L0 Minimization的C++复现，使用了`libigl`和`Eigen`作为依赖，便于编译。
